@@ -10,7 +10,7 @@ const Intro = () => {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["Frontend Dev", "Opensource ❤️", "Java","Logophile"],
+      strings: ["Frontend Dev", "Opensource ❤️", "Java Dev","Logophile"],
     });
   }, []);
   return (
